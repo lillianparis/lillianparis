@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there 👋
 
 **lillianparis/lillianparis** ✨Welcome to my Github ✨ 
 
