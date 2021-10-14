@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**lillianparis/lillianparis** ✨Welcome to my Github ✨ 
+
 
 
 - 🐌 I’m currently working on Data Visualization
