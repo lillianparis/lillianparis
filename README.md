@@ -1,4 +1,4 @@
-# Hi there <img src="https://user-images.githubusercontent.com/62733242/137552308-1d2efdf4-0b75-4614-bf67-aeba1c590e94.gif" width="55 px" />
+# Hey There! <img src="https://user-images.githubusercontent.com/62733242/137552308-1d2efdf4-0b75-4614-bf67-aeba1c590e94.gif" width="45 px" />
 
 
 
