@@ -1,4 +1,4 @@
-# Hi there ![hello-hi](https://user-images.githubusercontent.com/62733242/137551442-6abfbe70-3bec-453a-9027-6c2122836d4e.gif width="25" height="25")
+# Hi there ![hello-hi](https://user-images.githubusercontent.com/62733242/137551442-6abfbe70-3bec-453a-9027-6c2122836d4e.gif)
 
 
 
