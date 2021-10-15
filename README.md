@@ -4,7 +4,7 @@
 
 
 <br>
-<img align-"right" src="https://user-images.githubusercontent.com/62733242/137552928-6c41f820-5e95-4b42-919e-375b7ca37afb.gif" width="200" />
+<img align="right" src="https://user-images.githubusercontent.com/62733242/137552928-6c41f820-5e95-4b42-919e-375b7ca37afb.gif" width="200" />
 <p aligh="left"></br>
 🐌 &nbsp;I’m currently working on Data Visualization.\
 💬 &nbsp;I’m currently learning Angular.\
