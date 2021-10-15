@@ -17,6 +17,8 @@
 
 # 	📚 My Stats
 ![Lillian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lillianparis&show_icons=true&theme=blueberry)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lillianparis&layout=compact)](https://github.com/lillianparis/github-readme-stats)
+
 
 
 
