@@ -1,6 +1,8 @@
 # Hi There! My Name is Lilli <img src="https://user-images.githubusercontent.com/62733242/137552308-1d2efdf4-0b75-4614-bf67-aeba1c590e94.gif" width="45 px" />
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi i'm Lilli👩‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 
 
 <br>
