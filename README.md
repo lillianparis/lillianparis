@@ -9,7 +9,6 @@
 <li>🐌 I’m currently working on Data Visualization</li>
 <li> 💬 I’m currently learning Angular</li>
 <li>👯 I’m currently collaborating with another developer involving a Firebase application</li>
-<li>📫 How to reach me: lillian.paris529@gmail.com</li>
 <li>⚡ Fun fact: Currently a Web Development Instructor for Persevere</li>
 </p>
 
