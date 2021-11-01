@@ -7,9 +7,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/62733242/137552928-6c41f820-5e95-4b42-919e-375b7ca37afb.gif" width="200" />
 <p aligh="left"></br>
 <li>🐌 I’m currently working on Data Visualization</li>
-<li> 💬 I’m currently learning Angular</li>
+<li> 💬 I’m currently learning Gatsby</li>
 <li>👯 I’m currently collaborating with another developer involving a Firebase application</li>
-<li>⚡ Fun fact: Currently a Web Development Instructor for Persevere</li>
+<li>⚡ Fun fact: I'm a Web Development Instructor for Persevere</li>
 </p>
 
 
