@@ -9,7 +9,7 @@
 <li>🐌 I’m currently working on Data Visualization</li>
 <li> 💬 I’m currently learning Gatsby</li>
 <li>👯 I’m currently collaborating with another developer involving a Firebase application</li>
-<li>⚡ Fun fact: I'm a Web Development Instructor for Persevere</li>
+<li>⚡ Occupation: I'm a Web Development Instructor for Persevere</li>
 </p>
 
 
