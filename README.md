@@ -6,7 +6,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/62733242/137552928-6c41f820-5e95-4b42-919e-375b7ca37afb.gif" width="200" />
 <p aligh="left"></br>
-<li>🐌 I’m currently working on a ToolKit application</li>
+<li>⚡ I’m currently working on a ToolKit application</li>
 <li>⚡ Occupation: I'm a Web Development Instructor for Persevere</li>
 <li>⚡ You'll find 3 activity repositories that I've created! Feel free to check them out. (Walkkthroughts/Questions)</li>
 </p>
